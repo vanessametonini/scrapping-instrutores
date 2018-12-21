@@ -1,5 +1,11 @@
 ## virtual env
-to actvate the virtualenv
+to activate the virtualenv
  ```sh
  source env/bin/activate
  ```
+
+## start the app
+```
+cd env/src
+flask run
+```

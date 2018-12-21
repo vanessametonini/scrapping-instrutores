@@ -1,2 +1,5 @@
 virtualenv==16.1.0
 Flask==1.0.2
+requests==2.21.0
+beautifulsoup4==4.6.3
+flask_cors==3.0.7
